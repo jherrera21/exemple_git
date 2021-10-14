@@ -1,3 +1,4 @@
 Primer text
 AAAAA
 editado desde PC XD
+ahora desde terminal
